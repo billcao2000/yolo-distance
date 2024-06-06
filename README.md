@@ -6,12 +6,11 @@ Origional model see https://ultralytics.com/.
 
 
 
-![](/home/yuan/yolov3/runs/detect/exp48/006740.png)
+![](https://github.com/billcao2000/yolo-distance/blob/main/assets/006740.png)
 
-![](/home/yuan/yolov3/runs/detect/exp49/006611.png)
+![](https://github.com/billcao2000/yolo-distance/blob/main/assets/006611.png)
 
-![](/home/yuan/yolov3/runs/detect/exp43/006627.png)
-
+![](https://github.com/billcao2000/yolo-distance/blob/main/assets/006627.png)
 
 
 
