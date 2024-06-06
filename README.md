@@ -4,6 +4,8 @@ Estimates the absolute distance of objects from camera.
 
 Implemented on ultralytics yolov3, tested with yolov3 and yolov5n model.
 
+New version based on ultralytics yolov8 is will be released soon!
+
 Origional model see https://ultralytics.com/.
 
 
