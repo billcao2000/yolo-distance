@@ -1,5 +1,7 @@
 **YOLO-Distance**
 
+Estimates the absolute distance of objects from camera.
+
 Implemented on ultralytics yolov3, tested with yolov3 and yolov5n model.
 
 Origional model see https://ultralytics.com/.
