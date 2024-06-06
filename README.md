@@ -60,6 +60,7 @@ To build your dataset, download only the **train images** from kitti and make tw
 **Train**
 
 We offer a pretrained weights file, see best.pt.
+https://github.com/billcao2000/yolo-distance/releases/
 
 Modified config files at models/yolov3.yaml & models/yolov5n.yaml.
 
